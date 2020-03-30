@@ -2,6 +2,8 @@
   items:
     - name: Anasayfa
       link: /
+    - name: Uzaktan Eğitim Hakkında
+      link: /uzem
     - name: Eğitimciler
       link: #
       items:

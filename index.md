@@ -3,6 +3,7 @@ title: Anasayfa
 subtitle: '#EvdeKal Sağlıkla Kal'
 layout: page
 hide_hero: false
+hero_height: is-small
 menubar: menu
 ---
 
@@ -34,9 +35,3 @@ Sorunlarınız için lütfen öncelikle **Sıkça Sorulan Sorular** ve
 ediniz. Yaşadığınız farklı bir sorun varsa lütfen sorun bildirim formunu
 kullanarak bize bildirin.
 
-<style>
-  .hero-body {
-    padding-bottom: 3rem !important;
-    padding-top: 4rem !important;
-  }
-</style>

@@ -3,12 +3,11 @@ title: Sıkça Sorulan Sorular
 subtitle: Eğitimci
 layout: page
 show_sidebar: false
-hide_hero: true
+hide_hero: false
+hero_height: is-small
 menubar: menu
 faqs: faqs_for_teachers
 ---
-
-{% include title.html %}
 
 <article class="message is-warning">
   <div class="message-header">

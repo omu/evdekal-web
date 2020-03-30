@@ -17,3 +17,26 @@ items:
       erişimle ilgili hata alıyorsanız Öğrenci İşleri Daire Başkanlığı'na bildirmelisiniz. Not: Öğrenci numaranızda "Ö",
       "İ" gibi Türkçe karakterler bulunuyorsa Öğrenci İşleri Daire Başkanlığı'na başvurup, değiştirilmesini talep
       ediniz.</strong>
+  - id: 3
+  question: Derslere nasıl katılırım?
+  answer: >
+      Google Classroom üzerinde aldığınız dersler tanımlanmış olarak ekranınıza
+      gelecektir. Seçtiğiniz derse tıklayarak derse ait detayları
+      görebilirsiniz.
+  - id: 4
+  question: Bazı derslerimi görüntüleyemiyorum. Ne yapmalıyım?
+  answer: >
+      Dersleriniz UBS üzerinde aldığınız derslerden farklı veya eksik
+      görünüyorsa, sorun bildirim formunu kullanarak bize bildirin.
+  - id: 5
+  question: Seminer, proje, bitirme tezi vb. derslerim eklenmemiş. Ne yapmalıyım?
+  answer: >
+      Seminer, proje, bitirme tezi, staj, uzmanlık alan dersi, öğretmenlik
+      uygulaması (formasyon) vb. dersler uygulama dersleri olduğu için
+      üniversitemizin almış olduğu kararlar gereği sisteme aktarılmamıştır. Bu
+      dersler için herhangi bir bildirimde bulunmanıza gerek yoktur.
+  - id: 6
+  question: Canlı derslere nasıl katılırım?
+  answer: >
+      Derslerinize ait akış sayfasında, öğreticinizin sizlerle paylaştığı
+      bağlantıya tıklayarak canlı derslere katılabilirsiniz.

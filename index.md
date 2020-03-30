@@ -21,3 +21,15 @@ menubar: menu
   </ul>
   </div>
 </div>
+<br>
+
+Ondokuz Mayıs Üniversitesi COVID-19 önlemleri gereği uzaktan eğitimin
+sağlanmasıyla amacıyla oluşturulan yardım sayfasına hoş geldiniz!
+
+Eğitimciler ve Öğrenciler için sistemi nasıl kullanacaklarına dair bazı ipuçları
+hazırladık.
+
+Sorunlarınız için lütfen öncelikle **Sıkça Sorulan Sorular** ve
+**Yardım Videoları** bağlantılarındaki uygulama adımlarını takip
+ediniz. Yaşadığınız farklı bir sorun varsa lütfen sorun bildirim formunu
+kullanarak bize bildirin.

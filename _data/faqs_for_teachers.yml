@@ -59,3 +59,118 @@ items:
       birden fazla sınıf için ders yapmak istiyorsanız, bağlantıyı tüm
       sınıflarda aynı şekilde paylaşmalısınız.) Konuyla ilgili yardım
       videolarını izleyebilirsiniz.
+  - id: 8
+    question: Uzaktan öğretim hangi ders programına göre yürütülecektir?
+    answer: >
+      Uzaktan öğretim dersleri dönem başında ilan edilmiş ders programlarına göre sanal sınıflarda yürütülecektir.
+  - id: 9
+    question: Sisteme nasıl giriş yapabilirim?
+    answer: >
+      İnternet tarayıcınızın adres çubuğuna classroom.google.com yazın ve kullanıcı giriş ekranına ulaşın. Sisteme
+      bağlandıktan sonra karşınıza kullanıcı giriş formu gelecektir. İlerleyebilmeniz için gerekli olan stu.omu.edu.tr
+      uzantılı eposta adresiniz mevcut omu.edu.tr uzantılı adresiniz ile aynıdır.
+
+      Örneğin: Mevcut OMÜ eposta adresiniz ogretimelemani@omu.edu.tr olsun. Bu durumda ders sistemine giriş yapmanız için
+      kullanacağınız yeni adresiniz ogretimelemani@stu.omu.edu.tr şeklinde olacaktır. Bu yeni “stu.omu.edu.tr” uzantılı
+      hesabınızın şifresi ise mevcut “omu.edu.tr” uzantılı eski eposta hesabınıza gelecektir. “stu.omu.edu.tr” uzantılı
+      eposta adresi ile sanal sınıf sistemine ilk girişinizde sizden şifrenizi değiştirmeniz istenecektir. Kafa karışıklığı
+      yaşamamanız adına mevcut eposta şifreniz ile yeni eposta şifrenizin aynı olması tavsiye edilmektedir.
+  - id: 10
+    question: Sanal sınıfım tanımlanmamış ne yapmalıyım?
+    answer: >
+      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere
+      <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail atılmalıdır.
+  - id: 11
+    question: Öğrencilerimden bazıları sınıfıma dâhil edilmemiş ne yapmalıyım?
+    answer: >
+      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere
+      <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail atılmalıdır.
+  - id: 12
+    question: Sanal sınıfa mobil telefon ile bağlanabilecek miyim?
+    answer: >
+      Sanal sınıfa mobil telefon ile bağlanmak mümkündür.
+      <a href="https://support.google.com/edu/classroom/answer/6118412">https://support.google.com/edu/classroom/answer/6118412</a> linkini
+      kullanarak google sanal sınıf uygulamasını yükleme konusundaki bilgilendirmeden yararlanabilirsiniz.
+  - id: 13
+    question: Derslerimi nerede göreceğim?
+    answer: >
+      Adres çubuğuna classroom.google.com yazarak sisteme giriş yaptıktan sonra sorumlu olduğunuz dersler kartlar şeklinde
+      karşınıza gelecektir. Derslerinizi göremiyorsanız veya eksik görüyorsanız
+      <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine e mail atınız.
+  - id: 14
+    question: Eğitim programlarında yer alan uygulamalı dersler nasıl ve ne zaman yapılacak?
+    answer: >
+      Uygulamalı dersler virüsün etkisinin ortadan kalktığı dönemde akademik birimler tarafından ilan edilecek
+      yoğunlaştırılmış akademik takvim çerçevesinde yüz yüze yapılacaktır.
+  - id: 15
+    question: Yılsonu/yarıyıl sonu sınavı nasıl yapılacak?
+    answer: >
+      Yarıyıl sonu/yılsonu sınavları virüsün etkisinin ortadan kalktığı dönemde akademik birimler tarafından ilan edilecek
+      akademik takvim çerçevesinde yüz yüze yapılacaktır.
+  - id: 16
+    question: Dönem içi değerlendirme nasıl yapılacak?
+    answer: >
+      Dönem içi ölçme değerlendirmeler sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb. gibi etkinlikler
+      aracılığıyla yapılacaktır.
+  - id: 17
+    question: Ara sınavlar nasıl yapılacak?
+    answer: >
+      Ara sınavlar sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb. gibi etkinlikler aracılığıyla yapılabileceği
+      gibi, akademik birimlerimizin gerekli görmesi halinde kurul kararı ile korona pandemisi sonrası dönemde
+      yapabilecektir.
+  - id: 18
+    question: Ödev veya soru oluştururken, dersimi konu başlıkları altında gruplandırmalı mıyım?
+    answer: >
+      Sizin ve öğrencilerinizin etkinlikleri sağlıklı bir şekilde takip edebilmeniz için derslerinizi haftalık konu
+      başlıkları altında gruplandırmanız ve ödev, soru vb. gibi etkinliklerinizi her bir konu başlığı altında açarak
+      yönetmeniz uygun olacaktır.
+  - id: 19
+    question: Ödev, soru vb. etkinlikleri her bir öğrenciye veya öğrenci gruplarına ayrı ayrı oluşturabilecek miyim?
+    answer: >
+      Ödev, soru vb. etkinlikleri her bir öğrenciye veya öğrenci gruplarına ayrı ayrı oluşturabileceğiniz gibi, öğrencilerin
+      tamamı için de oluşturabilirsiniz.
+  - id: 20
+    question: Ödev, soru vb. etkinliklerinin geri teslimi için tarih ve saat verebilecek miyim?
+    answer: >
+      Sanal sınıfta ödev, soru vb. etkinliklerin geri teslimi için tarih ve saat verebilir ve öğrencilerin ödevlerini teslim
+      edip etmediği izlenebilir.
+  - id: 21
+    question: Öğrencilerim ders eğitim öğretim materyallerine nasıl ulaşacak?
+    answer: >
+      Öğrencileriniz eğitim öğretim materyallerine istediği zaman
+      <a href="https://avys.omu.edu.tr">https://avys.omu.edu.tr</a> adresinden ulaşabilecektir.
+      Ayrıca, sanal sınıftan eğitim öğretim materyallerinin linkini paylaşarak öğrencilerinizin ders notlarına ulaşmasını
+      sağlayabilirsiniz.
+  - id: 22
+    question: Sanal sınıfta öğrencilerimle ilave materyal paylaşabilecek miyim?
+    answer: >
+      Öğrencilerinize göstermek istediğiniz ilave doküman, video ve linki sanal sınıftan oluştur butonu yardımıyla
+      paylaşabilirsiniz.
+  - id: 23
+    question: Öğrencilerin ödev veya sorulara verdiği cevapları görüp puanlama yapabilecek miyim?
+    answer: >
+      Öğrencilerinizin ödev veya sorulara verdiği cevapları görüp puanlama yapabileceksiniz ve istediğiniz zaman tekrar
+      inceleyebileceksiniz.
+  - id: 24
+    question: Her hangi bir öğrenci ile diğer öğrencilerin görmediği bir şekilde iletişime geçebilecek miyim?
+    answer: >
+      Her hangi bir öğrenci ile diğer öğrencilerin göremeyeceği bir şekilde gizli görüşme yapabileceksiniz.
+  - id: 25
+    question: Öğrencilerimle anlık sesli veya görüntülü bağlantı kurabilecek miyim?
+    answer: >
+      Sanal sınıf uygulaması etkin kullanılmaya başlanasıya kadar sesli ve görüntülü bağlantı kurulmayacaktır. Sesli ve
+      görüntülü bağlantı için ilerleyen tarihlerde açıklama yapılacaktır.
+  - id: 26
+    question: Sanal sınıf uygulaması ile ilgili aklıma gelen sorular için nereye başvurmalıyım?
+    answer: >
+      Sanal sınıf uygulaması ile ilgili olarak aklınıza kalan her türlü soru
+      <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail ile gönderilmelidir.
+  - id: 27
+    question: Öğrencilerin derse katılımını takip etmeli miyim?
+    answer: >
+      Dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler (ödev, sınav vb.) ile yapılacağından, ders programında
+      belirtilen saatlerde öğrencilerin katılımını teşvik etmeniz ve takip etmeniz beklenmektedir.
+  - id: 28
+    question: Sanal sınıflarda görüntülü ve sesli etkileşim kurmak zorunda mıyım?
+    answer: >
+      Dersler sanal sınıflarda görüntülü ve sesli bağlantı yoluyla öğrenciler ile etkileşimli bir şekilde yapılmalıdır.

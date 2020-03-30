@@ -5,7 +5,6 @@ layout: page
 show_sidebar: false
 hide_hero: true
 menubar: menu
-hide_footer: true
 faqs: faqs_for_students
 ---
 

@@ -2,8 +2,7 @@
 title: Anasayfa
 subtitle:
 layout: page
-hide_hero: true
-hide_footer: true
+hide_hero: false
 menubar: menu
 ---
 

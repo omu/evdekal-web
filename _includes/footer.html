@@ -1,16 +1,6 @@
 <footer class="footer">
-  <div class="container">
-
-    {% if site.footer_menu %}
-    <div class="columns is-multiline">
-      {% for item in site.data[site.footer_menu] %}
-      <div class="column has-text-centered">
-        <div>
-          <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    {% endif %}
+  <div class="content has-text-centered">
+    <p>Ondokuz Mayıs Üniversitesi Bilgisayar Araştırmaları Uygulama ve Araştırma Merkezi</p>
+    <p>Copyright @ 2020 | <a href="baum.omu.edu.tr" target="_blank" alt="baum">baum.omu.edu.tr</a></p>
   </div>
 </footer>

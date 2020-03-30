@@ -22,14 +22,14 @@ items:
       öğrencilerin çalışmalarını organize etmelerine, ödevlerini tamamlayıp teslim etmelerine, öğretmenleri ve sınıf
       arkadaşlarıyla doğrudan iletişim kurmalarına yardımcı olacaktır.
   - id: 3
-    quetion: Derslerimi görüntüyelemiyorum. Ne yapmalıyım?
+    question: Derslerimi görüntüyelemiyorum. Ne yapmalıyım?
     answer: >
       UBS üzerinde adınıza tanımlanmış dersleriniz sisteme aktarılmıştır. İlgili
       dersin öğreticisi olarak kayıtlı değilseniz sistemde size ders
       görünmeyecektir. Sözkonusu ders ile ilgili işlemlenizi UBS üzerinden
       gerçekleştirmelisiniz.
   - id: 4
-    guestion: Bazı derslerim birden fazla görünüyor. Bu durumda canlı dersi nasıl işlemeliyim?
+    question: Bazı derslerim birden fazla görünüyor. Bu durumda canlı dersi nasıl işlemeliyim?
     answer: >
       Aynı derse ait birden fazla sınıf görüntülüyorsanız, bunun nedeni birden
       fazla programdan öğrencinin aynı dersi almasıdır. Farklı programlardan

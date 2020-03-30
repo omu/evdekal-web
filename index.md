@@ -33,3 +33,10 @@ Sorunlarınız için lütfen öncelikle **Sıkça Sorulan Sorular** ve
 **Yardım Videoları** bağlantılarındaki uygulama adımlarını takip
 ediniz. Yaşadığınız farklı bir sorun varsa lütfen sorun bildirim formunu
 kullanarak bize bildirin.
+
+<style>
+  .hero-body {
+    padding-bottom: 3rem !important;
+    padding-top: 4rem !important;
+  }
+</style>

@@ -16,10 +16,9 @@ menubar: menu
   </div>
   <div class="column">
    <ul>
-    <li><a href="http://classroom.google.com"><i class="fab fa-chrome"></i>Classroom Web</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.classroom"><i class="fab fa-android"></i>Classroom Mobil (Android)</a></li>
-    <li><a href="https://apps.apple.com/us/app/google-classroom/id924620788
-  "><i class="fab fa-app-store-ios"></i>Classroom Mobil (IOS)</a></li>
+    <li><a href="http://classroom.google.com"><i class="fab fa-chrome"></i>&nbsp;Classroom Web</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.classroom"><i class="fab fa-android"></i>&nbsp;Classroom Mobil (Android)</a></li>
+    <li><a href="https://apps.apple.com/us/app/google-classroom/id924620788"><i class="fab fa-app-store-ios"></i>&nbsp;Classroom Mobil (IOS)</a></li>
   </ul>
   </div>
 </div>

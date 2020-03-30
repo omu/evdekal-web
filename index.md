@@ -1,6 +1,6 @@
 ---
 title: Anasayfa
-subtitle:
+subtitle: '#EvdeKal Sağlıkla Kal'
 layout: page
 hide_hero: false
 menubar: menu

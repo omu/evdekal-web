@@ -54,11 +54,11 @@ items:
   - id: 9
     question: Bazı derslerimin sınıfında tanımlanmamışım ne yapmalıyım?
     answer: >
-      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere destek@uzem.omu.edu.tr adresine mail atılmalıdır.
+      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail atılmalıdır.
   - id: 10
     question: Sanal sınıfa mobil telefon ile bağlanabilecek miyim?
     answer: >
-      Sanal sınıfa mobil telefon ile bağlanmak mümkündür. https://support.google.com/edu/classroom/answer/6118412
+      Sanal sınıfa mobil telefon ile bağlanmak mümkündür. <a href="https://support.google.com/edu/classroom/answer/6118412">https://support.google.com/edu/classroom/answer/6118412</a>
       linkini kullanarak google sanal sınıf uygulamasını yükleme konusundaki bilgilendirmeden yararlanabilirsiniz.
   - id: 11
     question: Eğitim programlarında yer alan uygulamalı dersler nasıl ve ne zaman yapılacak?
@@ -90,7 +90,7 @@ items:
   - id: 16
     question: Ders eğitim öğretim materyallerine nasıl ulaşacağım?
     answer: >
-      Öğrencilerimiz eğitim öğretim materyallerine istediği zaman https://avys.omu.edu.tr adresinden ulaşabilecektir.
+      Öğrencilerimiz eğitim öğretim materyallerine istediği zaman <a href="https://avys.omu.edu.tr">https://avys.omu.edu.tr</a> adresinden ulaşabilecektir.
       Ayrıca, sanal sınıftan sorumlu öğretim elemanı tarafından paylaşılacak link ile eğitim öğretim materyallerine
       ulaşabilirsiniz.
   - id: 17
@@ -110,7 +110,7 @@ items:
   - id: 20
     question: Sanal sınıf uygulaması ile ilgili aklıma gelen sorular için nereye başvurmalıyım?
     answer: >
-      Sanal sınıf uygulaması ile ilgili olarak aklınıza kalan her türlü soru destek@uzem.omu.edu.tr adresine mail ile
+      Sanal sınıf uygulaması ile ilgili olarak aklınıza kalan her türlü soru <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail ile
       gönderilmelidir.
   - id: 21
     question: Ders programıma nasıl ulaşabilirim?

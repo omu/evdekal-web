@@ -2,7 +2,6 @@
   items:
     - name: Anasayfa
       link: /
-      show_sidebar: false
     - name: Eğitimciler
       link: #
       items:
@@ -17,3 +16,7 @@
           link: /students/faqs
         - name: Yardım Videoları
           link: /students/videos
+    - name: Ders Notları (AVYS)
+      link: http://avys.omu.edu.tr/
+    - name: COVID-19 Bilgilendirme
+      link: http://www.omu.edu.tr/tr/covid19

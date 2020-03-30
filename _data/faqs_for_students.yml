@@ -8,13 +8,13 @@ items:
     answer: >
       İnternet tarayıcınızın adres çubuğuna <a href="http://classroom.google.com" alt="google classroom" target="_blank">classroom.google.com</a> yazın ve kullanıcı giriş ekranına ulaşın. Sisteme
       bağlandıktan sonra karşınıza kullanıcı giriş formu gelecektir. Kullanıcı giriş formuna üniversite tarafından size
-      sağlanan öğrenci eposta adresinizi girin. Bu genellikle <strong>ogrencinumaraniz</strong>@stu.omu.edu.tr şeklindedir. Şifre alanına
+      sağlanan öğrenci e-posta adresinizi girin. Bu genellikle <strong>ogrencinumaraniz</strong>@stu.omu.edu.tr şeklindedir. Şifre alanına
       ise UBS not sistemine girmek için kullandığınız şifreyi yazın. <strong>Eğer şifrenizi unuttuysanız veya hata alıyorsanız;
       UBS şifrenizi değiştirip, 1 saat sonra tekrar girmeyi denemelisiniz. Şifreniz içersinde Türkçe karakter
       bulunmamalıdır.</strong>
       <br><br>
-      <strong>E-posta hesap şifreleriniz; UBS sistemi şifrenizin G Suite ile senkronize edilmesi ile oluşur. UBS sistemine
-      erişimle ilgili hata alıyorsanız Öğrenci İşleri Daire Başkanlığı'na bildirmelisiniz.</strong>
+      E-posta hesap ilk giriş şifreleriniz; UBS sistemi şifrenizin G Suite ile senkronize edilmesi ile oluşur. Her UBS şifrenizi değiştirdiğiniz zaman bu işlem G Suite'e yansır ve yeni girişinizde en son ayarladığınız UBS şifresi ile giriş yapmanız gerekir. UBS sistemine
+      erişimle ilgili hata alıyorsanız <a href="http://oidb.omu.edu.tr" alt="omü oidb" target="_blank">Öğrenci İşleri Daire Başkanlığı</a>'na bildirmelisiniz.
   - id: 3
     question: Derslere nasıl katılırım?
     answer: >

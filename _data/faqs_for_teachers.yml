@@ -22,14 +22,14 @@ items:
       öğrencilerin çalışmalarını organize etmelerine, ödevlerini tamamlayıp teslim etmelerine, öğretmenleri ve sınıf
       arkadaşlarıyla doğrudan iletişim kurmalarına yardımcı olacaktır.
   - id: 3
-    question: Derslerimi görüntüyelemiyorum. Ne yapmalıyım?
+    question: Derslerimi görüntüleyemiyorum. Ne yapmalıyım?
     answer: >
       UBS üzerinde adınıza tanımlanmış dersleriniz sisteme aktarılmıştır. İlgili
       dersin öğreticisi olarak kayıtlı değilseniz sistemde size ders
-      görünmeyecektir. Sözkonusu ders ile ilgili işlemlenizi UBS üzerinden
+      görünmeyecektir. Söz konusu ders ile ilgili işlemlerinizi UBS üzerinden
       gerçekleştirmelisiniz.
   - id: 4
-    question: Bazı derslerim birden fazla görünüyor. Bu durumda canlı dersi nasıl işlemeliyim?
+    question: Bazı derslerim birden fazla sınıfta görünüyor. Bu durumda canlı dersi nasıl işlemeliyim?
     answer: >
       Aynı derse ait birden fazla sınıf görüntülüyorsanız, bunun nedeni birden
       fazla programdan öğrencinin aynı dersi almasıdır. Farklı programlardan
@@ -38,8 +38,24 @@ items:
       aynı dersleri alan öğrenciler için kopyala/yapıştır yöntemiyle
       paylaşabilirsiniz.
   - id: 5
-    question: Ödev oluşturma ve toplama
+    question: Ödev oluşturma ve toplama nasıl yapılmalı?
     answer: >
       Sanal sınıf uygulaması, öğretim elemanlarının ödevleri kâğıt kullanmadan oluşturup toplamasına yardımcı
       olmaktadır. Öğretim elemanları kimlerin çalışmasını tamamlayıp tamamlamadığını hızla görebilecek ve her bir
       öğrenciye doğrudan, gerçek zamanlı geri bildirim sağlayabilecektir.
+  - id: 6
+    question: Araştırma görevlisiyim veya dışarıdan ders veriyorum, eğitimci olarak derse katılabilir miyim?
+    answer: >
+      Classroom'daki dersler ilgili dersin UBS üzerinde görünen eğitimcisi ile
+      ilişkilendirilmiştir. Üzerinizde bir ders görünmüyorsa eğitimci olarak
+      derse katılamazsınız.
+  - id: 7
+    question: Canlı ders yayını nasıl yapılır?
+    answer: >
+      Google üzerinde @stu.omu.edu.tr uzantılı adresiniz ile oturum açarak
+      Google Takvim'i seçiniz. Ders yapmak istediğiniz saate etkinlik ekleyerek
+      sizin için oluşturulan Hangouts Meet bağlantısını kopyalayınız. İlgili
+      dersinizde bir duyuru oluşturarak bu bağlantıyı paylaşınız. (Aynı anda
+      birden fazla sınıf için ders yapmak istiyorsanız, bağlantıyı tüm
+      sınıflarda aynı şekilde paylaşmalısınız.) Konuyla ilgili yardım
+      videolarını izleyebilirsiniz.

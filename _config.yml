@@ -25,3 +25,5 @@ exclude:
   - vendor/ruby/
   - README.md
   - CNAME
+
+google_analytics: UA-140653932-2

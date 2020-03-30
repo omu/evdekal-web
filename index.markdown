@@ -7,8 +7,6 @@ hide_footer: true
 menubar: menu
 ---
 
-
-
 <div class="columns">
   <div class="column is-two-fifths">
     <figure class="image is-128x128">

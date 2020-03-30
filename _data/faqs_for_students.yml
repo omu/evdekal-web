@@ -34,6 +34,12 @@ items:
         üniversitemizin almış olduğu kararlar gereği sisteme aktarılmamıştır. Bu
         dersler için herhangi bir bildirimde bulunmanıza gerek yoktur.
   - id: 6
+    question: Örgün eğitimde aldığım ortak dersler eklenmemiş. Ne yapmalıyım?
+    answer: >
+        Ortak dersler (Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili, İngilizce,
+        İş Sağlığı ve Güvenliği) Google Classroom sistemine dahil edilmemiştir.
+        Bu dersler OMÜ Uzaktan Eğitim Merkezi (UZEM) aracılıyla verilecektir.
+  - id: 7
     question: Canlı derslere nasıl katılırım?
     answer: >
         Derslerinize ait akış sayfasında, öğreticinizin sizlerle paylaştığı

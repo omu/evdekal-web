@@ -8,7 +8,7 @@ menubar: menu
 ---
 
 <div class="columns">
-  <div class="column is-two-fifths">
+  <div class="column is-3">
     <figure class="image is-128x128">
       <img src="https://lh3.googleusercontent.com/w0s3au7cWptVf648ChCUP7sW6uzdwGFTSTenE178Tz87K_w1P1sFwI6h1CLZUlC2Ug=s180-rw">
     </figure>

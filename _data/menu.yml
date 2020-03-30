@@ -1,0 +1,19 @@
+- label: menu
+  items:
+    - name: Anasayfa
+      link: /
+      show_sidebar: false
+    - name: Eğitimciler
+      link: #
+      items:
+        - name: Sıkça Sorulan Sorular
+          link: /teachers/faqs
+        - name: Yardım Videoları
+          link: /teachers/videos
+    - name: Öğrenciler
+      link: #
+      items:
+        - name: Sıkça Sorulan Sorular
+          link: /students/faqs
+        - name: Yardım Videoları
+          link: /students/videos

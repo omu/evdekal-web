@@ -1,0 +1,28 @@
+{% if page.faqs %}
+  {% assign faqs=site.data.[page.faqs] %}
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns is-multiline is-centered">
+          {% for faq in faqs.items %}
+            <div class="column is-12">
+              <div class="box">
+                <article class="media">
+                  <div class="media-content">
+                    <h5 class="title is-5 has-text-info">{{ faq.question }}</h5>
+                    <hr>
+                    {% if faq.answers %}
+                      <div class="content">
+                        <p>{{ faq.answers | newline_to_br }}</p>
+                      </div>
+                    {% endif %}
+                  </div>
+                </article>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+{% endif %}

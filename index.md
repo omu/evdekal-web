@@ -1,5 +1,5 @@
 ---
-title: Anasayfa
+title: Uzaktan Eğitim Platformu
 subtitle: '#EvdeKal Sağlıkla Kal'
 layout: page
 hide_hero: false

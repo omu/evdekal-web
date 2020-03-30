@@ -24,7 +24,7 @@ menubar: menu
 <br>
 
 Ondokuz Mayıs Üniversitesi COVID-19 önlemleri gereği uzaktan eğitimin
-sağlanmasıyla amacıyla oluşturulan yardım sayfasına hoş geldiniz!
+sağlanması amacıyla oluşturulan yardım sayfasına hoş geldiniz!
 
 Eğitimciler ve Öğrenciler için sistemi nasıl kullanacaklarına dair bazı ipuçları
 hazırladık.

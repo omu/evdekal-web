@@ -83,14 +83,17 @@ items:
   - id: 11
     question: Öğrencilerimden bazıları sınıfıma dâhil edilmemiş ne yapmalıyım?
     answer: >
-      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere
-      <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail atılmalıdır.
+      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere; öğrenci
+      numaraları, ders kodu ve adı belirtilerek <a
+      href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine
+      durumunuzu anlatan bir e-posta göndermelisiniz.
   - id: 12
     question: Sanal sınıfa mobil telefon ile bağlanabilecek miyim?
     answer: >
-      Sanal sınıfa mobil telefon ile bağlanmak mümkündür.
-      <a href="https://support.google.com/edu/classroom/answer/6118412">https://support.google.com/edu/classroom/answer/6118412</a> linkini
-      kullanarak google sanal sınıf uygulamasını yükleme konusundaki bilgilendirmeden yararlanabilirsiniz.
+      Sanal sınıfa mobil telefon ile bağlanmak mümkündür. <a
+      href="https://support.google.com/edu/classroom/answer/6118412">https://support.google.com/edu/classroom/answer/6118412</a>
+      bağlantısını kullanarak google sanal sınıf uygulamasını yükleme
+      konusundaki bilgilendirmeden yararlanabilirsiniz.
   - id: 13
     question: Derslerimi nerede göreceğim?
     answer: >
@@ -139,12 +142,12 @@ items:
     answer: >
       Öğrencileriniz eğitim öğretim materyallerine istediği zaman
       <a href="https://avys.omu.edu.tr">https://avys.omu.edu.tr</a> adresinden ulaşabilecektir.
-      Ayrıca, sanal sınıftan eğitim öğretim materyallerinin linkini paylaşarak öğrencilerinizin ders notlarına ulaşmasını
+      Ayrıca, sanal sınıftan eğitim öğretim materyallerinin bağlantısını paylaşarak öğrencilerinizin ders notlarına ulaşmasını
       sağlayabilirsiniz.
   - id: 22
     question: Sanal sınıfta öğrencilerimle ilave materyal paylaşabilecek miyim?
     answer: >
-      Öğrencilerinize göstermek istediğiniz ilave doküman, video ve linki sanal sınıftan oluştur butonu yardımıyla
+      Öğrencilerinize göstermek istediğiniz ilave doküman, video ve bağlantıyı sanal sınıftan oluştur butonu yardımıyla
       paylaşabilirsiniz.
   - id: 23
     question: Öğrencilerin ödev veya sorulara verdiği cevapları görüp puanlama yapabilecek miyim?
@@ -152,9 +155,9 @@ items:
       Öğrencilerinizin ödev veya sorulara verdiği cevapları görüp puanlama yapabileceksiniz ve istediğiniz zaman tekrar
       inceleyebileceksiniz.
   - id: 24
-    question: Her hangi bir öğrenci ile diğer öğrencilerin görmediği bir şekilde iletişime geçebilecek miyim?
+    question: Herhangi bir öğrenci ile diğer öğrencilerin görmediği bir şekilde iletişime geçebilecek miyim?
     answer: >
-      Her hangi bir öğrenci ile diğer öğrencilerin göremeyeceği bir şekilde gizli görüşme yapabileceksiniz.
+      Herhangi bir öğrenci ile diğer öğrencilerin göremeyeceği bir şekilde gizli görüşme yapabileceksiniz.
   - id: 25
     question: Öğrencilerimle anlık sesli veya görüntülü bağlantı kurabilecek miyim?
     answer: >

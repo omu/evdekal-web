@@ -44,3 +44,87 @@ items:
     answer: >
         Derslerinize ait akış sayfasında, öğreticinizin sizlerle paylaştığı
         bağlantıya tıklayarak canlı derslere katılabilirsiniz.
+
+  - id: 8
+    question: Hangi sınıflara tanımlandığımı nasıl göreceğim?
+    answer: >
+      Kullanıcı girişi yaptıktan sonra tarafınıza atanan derslerin yer aldığı dersler sayfasını göreceksiniz. Sorumlu
+      olduğunuz dersler kartlar şeklinde kaqrşınıza gelecektir. Derslerinizi göremiyorsanız veya eksik görüyorsanız
+      destek@uzem.omu.edu.tr adresine e mail atınız.
+  - id: 9
+    question: Bazı derslerimin sınıfında tanımlanmamışım ne yapmalıyım?
+    answer: >
+      Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere destek@uzem.omu.edu.tr adresine mail atılmalıdır.
+  - id: 10
+    question: Sanal sınıfa mobil telefon ile bağlanabilecek miyim?
+    answer: >
+      Sanal sınıfa mobil telefon ile bağlanmak mümkündür. https://support.google.com/edu/classroom/answer/6118412
+      linkini kullanarak google sanal sınıf uygulamasını yükleme konusundaki bilgilendirmeden yararlanabilirsiniz.
+  - id: 11
+    question: Eğitim programlarında yer alan uygulamalı dersler nasıl ve ne zaman yapılacak?
+    answer: >
+      Uygulamalı dersler virüsün etkisinin ortadan kalktığı dönemde akademik birimler tarafından ilan edilecek
+      yoğunlaştırılmış akademik takvim çerçevesinde yüz yüze yapılacaktır.
+  - id: 12
+    question: Yılsonu/yarıyıl sonu sınavı nasıl yapılacak?
+    answer: >
+      Yarıyıl sonu/yılsonu sınavları virüsün etkisinin ortadan kalktığı dönemde akademik birimler tarafından ilan edilecek
+      akademik takvim çerçevesinde yüz yüze yapılacaktır.
+  - id: 13
+    question: Dönem içi değerlendirme nasıl yapılacak?
+    answer: >
+      Dönem içi ölçme değerlendirmeler sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb. gibi etkinlikler
+      aracılığıyla yapılacaktır.
+  - id: 14
+    question: Ara sınavlar nasıl yapılacak?
+    answer: >
+      Ara sınavlar sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb. gibi etkinlikler aracılığıyla yapılabileceği
+      gibi, akademik birimlerimizin gerekli görmesi halinde kurul kararı ile korona pandemisi sonrası dönemde
+      yapabilecektir.
+  - id: 15
+    question: Ödev veya soru oluştururken, dersimi konu başlıkları altında gruplandırmalı mıyım?
+    answer: >
+      Sizin ve öğrencilerinizin etkinlikleri sağlıklı takip edebilmeniz için derslerinizi haftalık konu başlıkları altında
+      gruplandırmanız ve ödev, soru vb. gibi etkinliklerinizi her bir konu başlığı altında açarak yönetmeniz uygun
+      olacaktır.
+  - id: 16
+    question: Ders eğitim öğretim materyallerine nasıl ulaşacağım?
+    answer: >
+      Öğrencilerimiz eğitim öğretim materyallerine istediği zaman https://avys.omu.edu.tr adresinden ulaşabilecektir.
+      Ayrıca, sanal sınıftan sorumlu öğretim elemanı tarafından paylaşılacak link ile eğitim öğretim materyallerine
+      ulaşabilirsiniz.
+  - id: 17
+    question: Sanal sınıfta öğretim elemanlarının paylaştığı ilave materyallerden sorumlu olacak mıyız?
+    answer: >
+      Sanal sınıfta öğretim elemanları tarafından paylaşılan ilave materyallerden sorumlu olacaksınız.
+  - id: 18
+    question: Öğretim elemanı ile diğer öğrencilerin görmediği bir şekilde iletişime geçebilecek miyim?
+    answer: >
+      Öğretim elemanı ile diğer öğrencilerin göremeyeceği bir şekilde gizli görüşme yapabileceksiniz.
+  - id: 19
+    question: Anlık sesli veya görüntülü bağlantı kurulacak mı?
+    answer: >
+      Sistem paydaşları olan öğrenciler ve öğretim elemanları sanal sınıf uygulaması deneyimi kazandıktan sonra anlık sesli
+      ve görüntülü bağlantı gerçekleştirilecektir. Anlık sesli veya görüntülü bağlantı için ilerleyen tarihlerde açıklama
+      yapılacaktır.
+  - id: 20
+    question: Sanal sınıf uygulaması ile ilgili aklıma gelen sorular için nereye başvurmalıyım?
+    answer: >
+      Sanal sınıf uygulaması ile ilgili olarak aklınıza kalan her türlü soru destek@uzem.omu.edu.tr adresine mail ile
+      gönderilmelidir.
+  - id: 21
+    question: Ders programıma nasıl ulaşabilirim?
+    answer: >
+      Ders programınızı ubs@omu.edu.tr adresinden görüntüleyebilirsiniz.
+  - id: 22
+    question: Derslere katılmak zorunda mıyım?
+    answer: >
+      Eğitim öğretimin sürekliliğinin sağlanması için ve dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler
+      (ödev, sınav vb.) ile yapılacağından ders programında belirtilen saatlerde derse katılmanız beklenmektedir.
+  - id: 23
+    question: Bulunduğum yerde teknolojik yetersizlikler (internet bağlantısı vb.) sebebiyle derslere katılım sağlayamazsam ne yapmalıyım?
+    answer: >
+      Dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler (ödev, sınav vb.) ile yapılacağından ders programında
+      belirtilen saatlerde derse katılmanız beklenmektedir. Bulunduğunuz yerde var olan teknolojik yetersizliği belirten
+      dilekçeyi kanıtlarla birlikte akademik biriminize (enstitü/fakülte/YO/MYO) ulaştırmanız gerekmektedir. İlgili yönetim
+      kurulu durumu değerlendirerek karara bağlayacaktır.

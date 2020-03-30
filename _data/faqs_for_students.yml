@@ -1,17 +1,18 @@
 items:
-  - question: Uzaktan öğretim hangi ders programına göre yürütülecektir?
-    answers: >
+  - id: 1
+    question: Uzaktan öğretim hangi ders programına göre yürütülecektir?
+    answer: >
       Uzaktan öğretim dersleri dönem başında ilan edilmiş ders programlarına göre sanal sınıflarda yürütülecektir.
-  - question: Sisteme nasıl giriş yapabilirim?
-    answers: >
+  - id: 2
+    question: Sisteme nasıl giriş yapabilirim?
+    answer: >
       İnternet tarayıcınızın adres çubuğuna <a href="http://classroom.google.com" alt="google classroom" target="_blank">classroom.google.com</a> yazın ve kullanıcı giriş ekranına ulaşın. Sisteme
       bağlandıktan sonra karşınıza kullanıcı giriş formu gelecektir. Kullanıcı giriş formuna üniversite tarafından size
       sağlanan öğrenci eposta adresinizi girin. Bu genellikle <strong>öğrencinumaranız</strong>@stu.omu.edu.tr şeklindedir. Şifre alanına
       ise UBS not sistemine girmek için kullandığınız şifreyi yazın. <strong>Eğer şifrenizi unuttuysanız veya hata alıyorsanız;
       UBS şifrenizi değiştirip, 1 saat sonra tekrar girmeyi denemelisiniz. Şifreniz içersinde Türkçe karakter
       bulunmamalıdır.</strong>
-
-
+      <br><br>
       <strong>E-posta hesap şifreleriniz; UBS sistemi şifrenizin G Suite ile senkronize edilmesi ile oluşur. UBS sistemine
       erişimle ilgili hata alıyorsanız Öğrenci İşleri Daire Başkanlığı'na bildirmelisiniz. Not: Öğrenci numaranızda "Ö",
       "İ" gibi Türkçe karakterler bulunuyorsa Öğrenci İşleri Daire Başkanlığı'na başvurup, değiştirilmesini talep

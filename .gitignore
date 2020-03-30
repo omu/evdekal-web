@@ -3,3 +3,7 @@ _site/
 
 ### Sass ###
 .sass-cache
+
+.bundle/
+ngrok
+vendor/

@@ -1,5 +1,5 @@
 ---
-title: Uzaktan Eğitim Hakkında Herşey
+title: Uzaktan Eğitim Hakkında Her Şey
 subtitle: UZEM
 layout: page
 show_sidebar: false

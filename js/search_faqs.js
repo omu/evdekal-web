@@ -31,7 +31,7 @@
     else {
       searchResults.innerHTML = `
         <div class="notification is-danger is-light">
-          Her hangi bir cevap bulunamadı!
+          Herhangi bir cevap bulunamadı!
         </div>
       `
     }

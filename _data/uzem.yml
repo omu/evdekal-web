@@ -1,6 +1,6 @@
 items:
   - id: 1
-    question: Öğretim Elemanları Uzaktan Eğitimi Nasıl Verecek?
+    question: Öğretim elemanları uzaktan eğitimi nasıl verecek?
     answer: >
       Dünyayı saran Yeni Tip Koronavirüs salgınına karşı alınan tedbirler kapsamında Ondokuz Mayıs Üniversitesinde ön
       lisans, lisans ve lisansüstü düzeydeki bütün teorik dersler ile uygulamalı derslerin teorik kısımları, 23 Mart 2020
@@ -37,3 +37,7 @@ items:
     answer: >
       Sanal sınıfta, her bir görev ve öğrenci için otomatik klasörler oluşturulmaktadır. Bu sayede öğrenciler, kendi
       sayfalarında son tarihi gelen ödevleri kolayca görebilecektir.
+  - id: 6
+    question: Uzaktan öğretim hangi ders programına göre yürütülecek?
+    answer: >
+      Uzaktan öğretim dersleri dönem başında ilan edilmiş ders programlarına göre sanal sınıflarda yürütülecektir.

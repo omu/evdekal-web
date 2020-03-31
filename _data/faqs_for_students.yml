@@ -1,9 +1,5 @@
 items:
   - id: 1
-    question: Uzaktan öğretim hangi ders programına göre yürütülecektir?
-    answer: >
-      Uzaktan öğretim dersleri dönem başında ilan edilmiş ders programlarına göre sanal sınıflarda yürütülecektir.
-  - id: 2
     question: Sisteme nasıl giriş yapabilirim?
     answer: >
       İnternet tarayıcınızın adres çubuğuna <a href="http://classroom.google.com" alt="google classroom" target="_blank">classroom.google.com</a> yazın ve kullanıcı giriş ekranına ulaşın. Sisteme
@@ -15,30 +11,36 @@ items:
       <br><br>
       E-posta hesap ilk giriş şifreleriniz; UBS sistemi şifrenizin G Suite ile senkronize edilmesi ile oluşur. Her UBS şifrenizi değiştirdiğiniz zaman bu işlem G Suite'e yansır ve yeni girişinizde en son ayarladığınız UBS şifresi ile giriş yapmanız gerekir. UBS sistemine
       erişimle ilgili hata alıyorsanız <a href="http://oidb.omu.edu.tr" alt="omü oidb" target="_blank">Öğrenci İşleri Daire Başkanlığı</a>'na bildirmelisiniz.
-  - id: 3
+  - id: 2
     question: Derslere nasıl katılırım?
     answer: >
         Google Classroom üzerinde aldığınız dersler tanımlanmış olarak ekranınıza
         gelecektir. Seçtiğiniz derse tıklayarak derse ait detayları
         görebilirsiniz.
-  - id: 4
+  - id: 3
     question: Bazı derslerimi görüntüleyemiyorum. Ne yapmalıyım?
     answer: >
         Dersleriniz UBS üzerinde aldığınız derslerden farklı veya eksik
         görünüyorsa, sorun bildirim formunu kullanarak bize bildirin.
-  - id: 5
+  - id: 4
     question: Seminer, proje, bitirme tezi vb. derslerim eklenmemiş. Ne yapmalıyım?
     answer: >
         Seminer, proje, bitirme tezi, staj, uzmanlık alan dersi, öğretmenlik
         uygulaması (formasyon) vb. dersler uygulama dersleri olduğu için
         üniversitemizin almış olduğu kararlar gereği sisteme aktarılmamıştır. Bu
         dersler için herhangi bir bildirimde bulunmanıza gerek yoktur.
-  - id: 6
+  - id: 5
     question: Örgün eğitimde aldığım ortak dersler eklenmemiş. Ne yapmalıyım?
     answer: >
         Ortak dersler (Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili, İngilizce,
         İş Sağlığı ve Güvenliği) Google Classroom sistemine dahil edilmemiştir.
         Bu dersler OMÜ Uzaktan Eğitim Merkezi (UZEM) aracılıyla verilecektir.
+  - id: 6
+    question: Eğitim programlarında yer alan uygulamalı dersler nasıl ve ne zaman yapılacak?
+    answer: >
+      Uygulamalı dersler virüsün etkisinin ortadan kalktığı dönemde akademik
+      birimler tarafından ilan edilecek yoğunlaştırılmış akademik takvim
+      çerçevesinde yüz yüze yapılacaktır.
   - id: 7
     question: Canlı derslere nasıl katılırım?
     answer: >
@@ -49,67 +51,65 @@ items:
     answer: >
       Sanal sınıfa mobil telefon ile bağlanmak mümkündür. <a
       href="https://support.google.com/edu/classroom/answer/6118412">https://support.google.com/edu/classroom/answer/6118412</a>
-      bağlantısını kullanarak Google sanal sınıf uygulamasını yükleme konusundaki
-      bilgilendirmeden yararlanabilirsiniz.
+      bağlantısını kullanarak Google sanal sınıf uygulamasını yükleme
+      konusundaki bilgilendirmeden yararlanabilirsiniz.
   - id: 9
-    question: Eğitim programlarında yer alan uygulamalı dersler nasıl ve ne zaman yapılacak?
-    answer: >
-      Uygulamalı dersler virüsün etkisinin ortadan kalktığı dönemde akademik birimler tarafından ilan edilecek
-      yoğunlaştırılmış akademik takvim çerçevesinde yüz yüze yapılacaktır.
-  - id: 10
     question: Yılsonu/yarıyıl sonu sınavı nasıl yapılacak?
     answer: >
-      Yarıyıl sonu/yılsonu sınavları virüsün etkisinin ortadan kalktığı dönemde akademik birimler tarafından ilan edilecek
-      akademik takvim çerçevesinde yüz yüze yapılacaktır.
-  - id: 11
+      Yarıyıl sonu/yılsonu sınavları virüsün etkisinin ortadan kalktığı dönemde
+      akademik birimler tarafından ilan edilecek akademik takvim çerçevesinde
+      yüz yüze yapılacaktır.
+  - id: 10
     question: Dönem içi değerlendirme nasıl yapılacak?
     answer: >
-      Dönem içi ölçme değerlendirmeler sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb. gibi etkinlikler
-      aracılığıyla yapılacaktır.
-  - id: 12
+      Dönem içi ölçme değerlendirmeler sanal sınıflarda gerçekleştirilecek ödev,
+      sınav, proje vb. gibi etkinlikler aracılığıyla yapılacaktır.
+  - id: 11
     question: Ara sınavlar nasıl yapılacak?
     answer: >
-      Ara sınavlar sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb. gibi etkinlikler aracılığıyla yapılabileceği
-      gibi, akademik birimlerimizin gerekli görmesi halinde kurul kararı ile korona pandemisi sonrası dönemde
+      Ara sınavlar sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb.
+      gibi etkinlikler aracılığıyla yapılabileceği gibi, akademik birimlerimizin
+      gerekli görmesi halinde kurul kararı ile korona pandemisi sonrası dönemde
       yapabilecektir.
-  - id: 13
+  - id: 12
     question: Ders eğitim öğretim materyallerine nasıl ulaşacağım?
     answer: >
-      Öğrencilerimiz eğitim öğretim materyallerine istediği zaman <a href="https://avys.omu.edu.tr">https://avys.omu.edu.tr</a> adresinden ulaşabilecektir.
-      Ayrıca, sanal sınıftan sorumlu öğretim elemanı tarafından paylaşılacak bağlantı ile eğitim öğretim materyallerine
-      ulaşabilirsiniz.
-  - id: 14
+      Öğrencilerimiz eğitim öğretim materyallerine istediği zaman <a
+      href="https://avys.omu.edu.tr">https://avys.omu.edu.tr</a> adresinden
+      ulaşabilecektir. Ayrıca, sanal sınıftan sorumlu öğretim elemanı tarafından
+      paylaşılacak bağlantı ile eğitim öğretim materyallerine ulaşabilirsiniz.
+  - id: 13
     question: Sanal sınıfta öğretim elemanlarının paylaştığı ilave materyallerden sorumlu olacak mıyız?
     answer: >
-      Sanal sınıfta öğretim elemanları tarafından paylaşılan ilave materyallerden sorumlu olacaksınız.
-  - id: 15
+      Sanal sınıfta öğretim elemanları tarafından paylaşılan ilave
+      materyallerden sorumlu olacaksınız.
+  - id: 14
     question: Öğretim elemanı ile diğer öğrencilerin görmediği bir şekilde iletişime geçebilecek miyim?
     answer: >
-      Öğretim elemanı ile diğer öğrencilerin göremeyeceği bir şekilde gizli görüşme yapabileceksiniz.
-  - id: 16
-    question: Anlık sesli veya görüntülü bağlantı kurulacak mı?
-    answer: >
-      Sistem paydaşları olan öğrenciler ve öğretim elemanları sanal sınıf uygulaması deneyimi kazandıktan sonra anlık sesli
-      ve görüntülü bağlantı gerçekleştirilecektir. Anlık sesli veya görüntülü bağlantı için ilerleyen tarihlerde açıklama
-      yapılacaktır.
-  - id: 17
+      Öğretim elemanı ile diğer öğrencilerin göremeyeceği bir şekilde gizli
+      görüşme yapabileceksiniz.
+  - id: 15
     question: Sanal sınıf uygulaması ile ilgili aklıma gelen sorular için nereye başvurmalıyım?
     answer: >
-      Sanal sınıf uygulaması ile ilgili olarak aklınıza kalan her türlü soru <a href="mailto:destek@uzem.omu.edu.tr">destek@uzem.omu.edu.tr</a> adresine mail ile
-      gönderilmelidir.
-  - id: 18
+      Sanal sınıf uygulaması ile ilgili sorularınız için sorun bildirim formunu
+      kullanarak bize ulaşabilirsiniz.
+  - id: 16
     question: Ders programıma nasıl ulaşabilirim?
     answer: >
       Ders programınızı ubs.omu.edu.tr adresinden görüntüleyebilirsiniz.
-  - id: 19
+  - id: 17
     question: Derslere katılmak zorunda mıyım?
     answer: >
-      Eğitim öğretimin sürekliliğinin sağlanması için ve dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler
-      (ödev, sınav vb.) ile yapılacağından ders programında belirtilen saatlerde derse katılmanız beklenmektedir.
-  - id: 20
+      Eğitim öğretimin sürekliliğinin sağlanması için ve dönem içi
+      değerlendirme, sanal sınıflarda yapılan etkinlikler (ödev, sınav vb.) ile
+      yapılacağından ders programında belirtilen saatlerde derse katılmanız
+      beklenmektedir.
+  - id: 18
     question: Bulunduğum yerde teknolojik yetersizlikler (internet bağlantısı vb.) sebebiyle derslere katılım sağlayamazsam ne yapmalıyım?
     answer: >
-      Dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler (ödev, sınav vb.) ile yapılacağından ders programında
-      belirtilen saatlerde derse katılmanız beklenmektedir. Bulunduğunuz yerde var olan teknolojik yetersizliği belirten
-      dilekçeyi kanıtlarla birlikte akademik biriminize (Enstitü/Fakülte/YO/MYO) ulaştırmanız gerekmektedir. İlgili yönetim
-      kurulu durumu değerlendirerek karara bağlayacaktır.
+      Dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler (ödev, sınav
+      vb.) ile yapılacağından ders programında belirtilen saatlerde derse
+      katılmanız beklenmektedir. Bulunduğunuz yerde var olan teknolojik
+      yetersizliği belirten dilekçeyi kanıtlarla birlikte akademik biriminize
+      (Enstitü/Fakülte/YO/MYO) ulaştırmanız gerekmektedir. İlgili yönetim kurulu
+      durumu değerlendirerek karara bağlayacaktır.

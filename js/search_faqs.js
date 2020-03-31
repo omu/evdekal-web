@@ -1,4 +1,21 @@
 (function() {
+  String.prototype.turkishtoEnglish = function () {
+    return this.replace('Ğ','g')
+      .replace('Ü','u')
+      .replace('Ş','s')
+      .replace('I','i')
+      .replace('İ','i')
+      .replace('Ö','o')
+      .replace('Ç','c')
+      .replace('ğ','g')
+      .replace('ü','u')
+      .replace('ş','s')
+      .replace('ı','i')
+      .replace('ö','o')
+      .replace('ç','c');
+  };
+
+
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
 
@@ -66,14 +83,14 @@
         this.add(
           {
             'id': key,
-            'question': window.store[key].question,
-            'answer': window.store[key].answer
+            'question': window.store[key].question.turkishtoEnglish().toLowerCase(),
+            'answer': window.store[key].answer.turkishtoEnglish().toLowerCase()
           }
         )
       }
     });
 
-    var results = idx.search(searchTerm); // Get lunr to perform a search
+    var results = idx.search(searchTerm.turkishtoEnglish().toLowerCase()); // Get lunr to perform a search
     displaySearchResults(results, window.store); // We'll write this in the next section
   }
   else {

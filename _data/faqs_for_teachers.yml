@@ -39,18 +39,33 @@ items:
       aynı dersleri alan öğrenciler için kopyala/yapıştır yöntemiyle
       paylaşabilirsiniz.
   - id: 5
+    question: Bazı derslerim tamamen (öğrencileri dahil) aynı olarak tekrar eklenmiş. Ne yapmalıyım?
+    answer: >
+      Bu aşamada herhangi bir işlem yapmanız gerekmemektedir. Sınıfın tamamen
+      aynı olduğundan eminseniz, seçtiğiniz sınıf ile ders işlemeye devam
+      edebilirsiniz. Söz konusu durum ders vermenizi engelleyen bir sorun
+      değildir. Mükerrer olduğu tespit edilen sınıflarla ilgili ilerleyen
+      günlerde çalışma yapılacaktır.
+  - id: 6
     question: Öğrencilerimden bazıları sınıfıma dâhil edilmemiş ne yapmalıyım?
     answer: >
       Tanımlama işlemlerinin gerçekleştirilmesini sağlamak üzere; öğrenci
       numaraları, ders kodu ve adı belirtilerek sorun bildirim formu
       aracılığıyla bize ulaşın.
-  - id: 6
+  - id: 7
     question: Araştırma görevlisiyim veya dışarıdan ders veriyorum, eğitimci olarak derse katılabilir miyim?
     answer: >
       Classroom'daki dersler ilgili dersin UBS üzerinde görünen eğitimcisi ile
       ilişkilendirilmiştir. Üzerinizde bir ders görünmüyorsa eğitimci olarak
       derse katılamazsınız.
-  - id: 7
+  - id: 8
+    question: Tarafıma açılan dersler haricinde kendim ders/öğrenci ekleyebilir miyim?
+    answer: >
+      Yapılan aktarımlar haricinde bireysel olarak açtığınız dersler sizin
+      sorumluluğunuzdadır. Kişisel olarak açtığınız dersler için teknik destek
+      verilmeyecektir. UBS'de mevcut dersinizin aktarılmadığını düşünüyorsanız
+      lütfen sorun bildirim formunu kullarak bize ulaşın.
+  - id: 9
     question: Canlı ders yayını nasıl yapılır?
     answer: >
       Google üzerinde @stu.omu.edu.tr uzantılı adresiniz ile oturum açarak
@@ -60,56 +75,56 @@ items:
       birden fazla sınıf için ders yapmak istiyorsanız, bağlantıyı tüm
       sınıflarda aynı şekilde paylaşmalısınız.) Konuyla ilgili yardım
       videolarını izleyebilirsiniz.
-  - id: 8
+  - id: 10
     question: Sanal sınıfa mobil telefon ile bağlanabilecek miyim?
     answer: >
       Sanal sınıfa mobil telefon ile bağlanmak mümkündür. <a
       href="https://support.google.com/edu/classroom/answer/6118412">https://support.google.com/edu/classroom/answer/6118412</a>
       bağlantısını kullanarak google sanal sınıf uygulamasını yükleme
       konusundaki bilgilendirmeden yararlanabilirsiniz.
-  - id: 9
+  - id: 11
     question: Eğitim programlarında yer alan uygulamalı dersler nasıl ve ne zaman yapılacak?
     answer: >
       Uygulamalı dersler virüsün etkisinin ortadan kalktığı dönemde akademik
       birimler tarafından ilan edilecek yoğunlaştırılmış akademik takvim
       çerçevesinde yüz yüze yapılacaktır.
-  - id: 10
+  - id: 12
     question: Yılsonu/yarıyıl sonu sınavı nasıl yapılacak?
     answer: >
       Yarıyıl sonu/yılsonu sınavları virüsün etkisinin ortadan kalktığı dönemde
       akademik birimler tarafından ilan edilecek akademik takvim çerçevesinde
       yüz yüze yapılacaktır.
-  - id: 11
+  - id: 13
     question: Dönem içi değerlendirme nasıl yapılacak?
     answer: >
       Dönem içi ölçme değerlendirmeler sanal sınıflarda gerçekleştirilecek ödev,
       sınav, proje vb. gibi etkinlikler aracılığıyla yapılacaktır.
-  - id: 12
+  - id: 14
     question: Ara sınavlar nasıl yapılacak?
     answer: >
       Ara sınavlar sanal sınıflarda gerçekleştirilecek ödev, sınav, proje vb.
       gibi etkinlikler aracılığıyla yapılabileceği gibi, akademik birimlerimizin
       gerekli görmesi halinde kurul kararı ile korona pandemisi sonrası dönemde
       yapabilecektir.
-  - id: 13
+  - id: 15
     question: Ödev veya soru oluştururken, dersimi konu başlıkları altında gruplandırmalı mıyım?
     answer: >
       Sizin ve öğrencilerinizin etkinlikleri sağlıklı bir şekilde takip
       edebilmeniz için derslerinizi haftalık konu başlıkları altında
       gruplandırmanız ve ödev, soru vb. gibi etkinliklerinizi her bir konu
       başlığı altında açarak yönetmeniz uygun olacaktır.
-  - id: 14
+  - id: 16
     question: Ödev, soru vb. etkinlikleri her bir öğrenciye veya öğrenci gruplarına ayrı ayrı oluşturabilecek miyim?
     answer: >
       Ödev, soru vb. etkinlikleri her bir öğrenciye veya öğrenci gruplarına ayrı
       ayrı oluşturabileceğiniz gibi, öğrencilerin tamamı için de
       oluşturabilirsiniz.
-  - id: 15
+  - id: 17
     question: Ödev, soru vb. etkinliklerinin geri teslimi için tarih ve saat verebilecek miyim?
     answer: >
       Sanal sınıfta ödev, soru vb. etkinliklerin geri teslimi için tarih ve saat
       verebilir ve öğrencilerin ödevlerini teslim edip etmediği izlenebilir.
-  - id: 16
+  - id: 18
     question: Öğrencilerim ders eğitim öğretim materyallerine nasıl ulaşacak?
     answer: >
       Öğrencileriniz eğitim öğretim materyallerine istediği zaman <a
@@ -117,33 +132,33 @@ items:
       ulaşabilecektir. Ayrıca, sanal sınıftan eğitim öğretim materyallerinin
       bağlantısını paylaşarak öğrencilerinizin ders notlarına ulaşmasını
       sağlayabilirsiniz.
-  - id: 17
+  - id: 18
     question: Sanal sınıfta öğrencilerimle ilave materyal paylaşabilecek miyim?
     answer: >
       Öğrencilerinize göstermek istediğiniz ilave doküman, video ve bağlantıyı
       sanal sınıftan oluştur butonu yardımıyla paylaşabilirsiniz.
-  - id: 18
+  - id: 19
     question: Öğrencilerin ödev veya sorulara verdiği cevapları görüp puanlama yapabilecek miyim?
     answer: >
       Öğrencilerinizin ödev veya sorulara verdiği cevapları görüp puanlama
       yapabileceksiniz ve istediğiniz zaman tekrar inceleyebileceksiniz.
-  - id: 19
+  - id: 20
     question: Herhangi bir öğrenci ile diğer öğrencilerin görmediği bir şekilde iletişime geçebilecek miyim?
     answer: >
       Herhangi bir öğrenci ile diğer öğrencilerin göremeyeceği bir şekilde gizli
       görüşme yapabileceksiniz.
-  - id: 20
+  - id: 21
     question: Sanal sınıf uygulaması ile ilgili aklıma gelen sorular için nereye başvurmalıyım?
     answer: >
       Sanal sınıf uygulaması ile ilgili sorularınız için sorun bildirim formunu
       kullanarak bize ulaşabilirsiniz.
-  - id: 21
+  - id: 22
     question: Öğrencilerin derse katılımını takip etmeli miyim?
     answer: >
       Dönem içi değerlendirme, sanal sınıflarda yapılan etkinlikler (ödev, sınav
       vb.) ile yapılacağından, ders programında belirtilen saatlerde
       öğrencilerin katılımını teşvik etmeniz ve takip etmeniz beklenmektedir.
-  - id: 22
+  - id: 23
     question: Sanal sınıflarda görüntülü ve sesli etkileşim kurmak zorunda mıyım?
     answer: >
       Dersler sanal sınıflarda görüntülü ve sesli bağlantı yoluyla öğrenciler

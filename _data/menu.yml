@@ -11,6 +11,8 @@
           link: /teachers/faqs
         - name: Yardım Videoları
           link: /teachers/videos
+        - name: Yardım Kılavuzu
+          link: /teachers/guide
     - name: Öğrenciler
       link: #
       items:
@@ -18,6 +20,8 @@
           link: /students/faqs
         - name: Yardım Videoları
           link: /students/videos
+        - name: Yardım Kılavuzu
+          link: /students/guide
     - name: Ders Notları (AVYS)
       link: http://avys.omu.edu.tr/
     - name: COVID-19 Bilgilendirme
